@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color:darkorange;
+    background-color: wheat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+    color:darkorange;
+    background-color: wheat;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+section{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+}
+
+#ford{
+    width: 10em;
+    float: right;
+    border-style:solid;
+}
+
+#modelt{
+    width: 15em;
+    float:left;
+    border-style: solid;
+}
+
+aside{
+    color:darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}

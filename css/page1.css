@@ -1,0 +1,45 @@
+h1{
+    color:maroon;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+
+h2{
+    color: maroon;
+    margin-top: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#ford{
+    width:10em;
+    border-style: double;
+}
+
+
+#modelt{
+    width:15em;
+    float: right;
+    border-style:double;
+}
+
+section{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color:lightgray;
+}
+
+aside{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+  color:slategray;
+}
+
+nav{
+    text-align: center;
+}
